@@ -18,14 +18,6 @@ To use ReliableStruct in your project, include it via the following CDN link:
 <script src="https://cdn.jsdelivr.net/gh/simplyYan/ReliableStruct@refs/heads/main/relistruct.js"></script>
 ```
 
-### Dependencies
-
-For AES encryption, ReliableStruct depends on `crypto-js`. Include this CDN as well:
-
-```html
-<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/crypto-js.min.js"></script>
-```
-
 ## Usage Example
 
 ```javascript
